@@ -1,5 +1,36 @@
+/*general*/
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+/*header*/
+header{
+    background-color: rgb(173, 216, 230);
+    padding: 15px;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.header{
+    background-color: rgb(218, 165, 32);
+    display: flex;
+}
+.text{
+    border:dashed 1px black;
+    padding: 5px;
+
+}
+.centro{
+    width: 60%;
+    text-align: center;
+}
+.sinistra{
+    width: 20%;
+}
+.destra{
+    width: 20%;
+    text-align: right;
+}
+/*main parte viola*/
