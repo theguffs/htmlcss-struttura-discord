@@ -9,13 +9,12 @@ header{
     background-color: rgb(173, 216, 230);
     padding: 15px;
 }
-.container{
-    width: 1000px;
-    margin: auto;
-}
-.header{
+
+.container-header{
     background-color: rgb(218, 165, 32);
     display: flex;
+    width: 1000px;
+    margin: auto;
 }
 .text{
     border:dashed 2px black;
@@ -48,3 +47,28 @@ header{
     border:dashed 2px black;
 }
 /*parte bianca con all'interno rettangolo azzurro e rosa*/
+.bianco{
+    height: 500px;
+    display: flex;
+}
+.container{
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    border:dashed 2px black;
+    display: flex;
+}
+.azzurro{
+    width: 60%;
+    background-color: rgb(30, 144, 255);
+    border-right: dashed 2px black;
+}
+.rosa{
+    width: 40%;
+    background-color: rgb(255, 192, 203);
+}
+.grigio{
+    background-color: rgb(211, 211, 211);
+    height: 500px;
+    display: flex;
+}
