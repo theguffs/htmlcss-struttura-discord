@@ -63,6 +63,11 @@ header{
     background-color: rgb(30, 144, 255);
     border-right: dashed 2px black;
 }
+.azzurro-right{
+    width: 60%;
+    background-color: rgb(30, 144, 255);
+    border-left: dashed 2px black;
+}
 .rosa{
     width: 40%;
     background-color: rgb(255, 192, 203);
