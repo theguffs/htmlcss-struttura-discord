@@ -72,3 +72,15 @@ header{
     height: 500px;
     display: flex;
 }
+.grigio.grande{
+    height: 800px;
+
+}
+.container.grande{
+    width: 1000px;
+    height: 750px;
+    margin: auto;
+    border:dashed 2px black;
+    display: flex;
+    background-color: rgb(34, 139, 34);
+}
